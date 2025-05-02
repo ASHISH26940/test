@@ -1,0 +1,12 @@
+[tasks.build-wasm]
+command = "cargo"
+args = ["build", "--target", "wasm32-unknown-unknown", "--release"]
+
+[tasks.copy-wasm]
+script = [
+    "mkdir -p ../my-arcade-app/public/game",
+    "cp target/wasm32-unknown-unknown/release/arcade.wasm ../frontendarcade/public/"
+]
+
+[tasks.build]
+dependencies = ["build-wasm", "copy-wasm"]
