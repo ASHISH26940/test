@@ -1,0 +1,9 @@
+/home/kai/code/arcade/target/debug/deps/libtoml_write-6270e3e1ff6c6a58.rmeta: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs
+
+/home/kai/code/arcade/target/debug/deps/toml_write-6270e3e1ff6c6a58.d: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs
+
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs:

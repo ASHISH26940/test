@@ -1,0 +1,12 @@
+/home/kai/code/arcade/target/debug/deps/libgetrandom-d68f333d60796126.rmeta: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/util.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/../README.md /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/use_file.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/../util_libc.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/linux_android_with_fallback.rs
+
+/home/kai/code/arcade/target/debug/deps/getrandom-d68f333d60796126.d: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/util.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/../README.md /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/use_file.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/../util_libc.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/linux_android_with_fallback.rs
+
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/lib.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/util.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/../README.md:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/use_file.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/../util_libc.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/linux_android_with_fallback.rs:

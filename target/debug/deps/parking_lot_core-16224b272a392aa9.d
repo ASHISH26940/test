@@ -1,0 +1,10 @@
+/home/kai/code/arcade/target/debug/deps/libparking_lot_core-16224b272a392aa9.rmeta: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/thread_parker/unix.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/parking_lot.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/spinwait.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/util.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/word_lock.rs
+
+/home/kai/code/arcade/target/debug/deps/parking_lot_core-16224b272a392aa9.d: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/thread_parker/unix.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/parking_lot.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/spinwait.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/util.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/word_lock.rs
+
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/lib.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/thread_parker/unix.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/parking_lot.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/spinwait.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/util.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.3.1/src/word_lock.rs:

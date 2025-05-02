@@ -1,0 +1,11 @@
+/home/kai/code/arcade/target/debug/deps/libcookie_store-20843d91f2215725.rmeta: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_domain.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_expiration.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_path.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_store.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/utils.rs
+
+/home/kai/code/arcade/target/debug/deps/cookie_store-20843d91f2215725.d: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_domain.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_expiration.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_path.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_store.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/utils.rs
+
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/lib.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_domain.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_expiration.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_path.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/cookie_store.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie_store-0.7.0/src/utils.rs:

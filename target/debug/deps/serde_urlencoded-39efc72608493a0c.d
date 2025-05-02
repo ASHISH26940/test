@@ -1,0 +1,11 @@
+/home/kai/code/arcade/target/debug/deps/libserde_urlencoded-39efc72608493a0c.rmeta: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/de.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/mod.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/key.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/pair.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/part.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/home/kai/code/arcade/target/debug/deps/serde_urlencoded-39efc72608493a0c.d: /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/lib.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/de.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/mod.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/key.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/pair.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/part.rs /home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/lib.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/de.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/mod.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/key.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/pair.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/part.rs:
+/home/kai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_urlencoded-0.5.5/src/ser/value.rs:

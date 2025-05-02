@@ -1,0 +1,1 @@
+/home/kai/code/arcade/target/wasm32-unknown-unknown/release/space_game.wasm: /home/kai/code/arcade/src/enemy.rs /home/kai/code/arcade/src/game_state.rs /home/kai/code/arcade/src/lib.rs /home/kai/code/arcade/src/menu.rs /home/kai/code/arcade/src/player.rs /home/kai/code/arcade/src/powerup.rs /home/kai/code/arcade/src/ship.rs /home/kai/code/arcade/src/utils.rs
